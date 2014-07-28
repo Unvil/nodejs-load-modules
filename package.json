@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-load-modules",
+  "version": "0.0.1",
+  "description": "Nodejs, load modules, dependencies",
+  "main": "server.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Unvil/nodejs-load-modules.git"
+  },
+  "author": "Claudio A. Marrero",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
